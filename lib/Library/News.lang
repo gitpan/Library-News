@@ -1,0 +1,63 @@
+data
+uk: date
+pt: data
+
+url
+uk: url
+pt: url
+
+titulo
+uk: title
+pt: titulo
+
+novidades
+uk: news
+pt: novidades
+
+novidade
+uk: new
+pt: novidade
+
+texto
+uk: text
+pt: texto
+
+formatodata
+uk: dd-mm-yyyy
+pt: dd-mm-aaaa
+
+pracabar
+uk: Enter an empty line to finish!
+pt: Introduza uma linha em branco para acabar!
+
+erro
+uk: There is somewhere an error!
+pt: Existe um erro algures!
+
+confirma
+uk: The data is correct? (y/n)
+pt: Confirma os dados? (s/n)
+
+fim
+uk: The new was appended!
+pt: A novidade foi introduzida!
+
+sim
+uk: y
+pt: s
+
+nao
+uk: n
+pt: n
+
+confrma
+uk: Confirm?
+pt: Confirma?
+
+ok
+uk: Ok
+pt: Continuar
+
+corrigir
+uk: Do you want to correct something?
+pt: Deseja corrigir alguma coisa?

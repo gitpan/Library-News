@@ -1,0 +1,6 @@
+Changes
+MANIFEST
+Makefile.PL
+News.pm
+test.pl
+lib/Library/News.lang
